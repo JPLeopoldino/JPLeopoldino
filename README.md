@@ -1,6 +1,6 @@
-# Minha Configuração atual (2021)
+# Olá, João Pedro falando :D
 
-#### Configuração do meu pc
+#### Bem vindo ao meu GitHub!
 <br/>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/dat_duder?color=%23915eff&label=Follow%20Me&logo=Twitter&logoColor=%23915eff&style=for-the-badge)
