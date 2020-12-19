@@ -42,16 +42,15 @@ ___
 
 [<img align="center" alt="Gmail" width="20px" style="filter: invert(1)" src="https://simpleicons.org/icons/gmail.svg" />](leopoldino26@gmail.com)‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎[<img align="center" alt="Linkedn" width="20px" style="filter: invert(1)" src="https://simpleicons.org/icons/linkedin.svg" />](https://www.linkedin.com/in/joão-pedro-leopoldino-4648ab185/)‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎[<img align="center" alt="Udemy" width="20px" style="filter: invert(1)" src="https://simpleicons.org/icons/udemy.svg" />](https://www.udemy.com/user/joao-pedro-leopoldino-2/)
 
+
+___
+
+
+<img align="top" alt="João Pedro Status" src="https://github-readme-stats.codestackr.vercel.app/api?username=JPLeopoldino&show_icons=true&hide_border=true">
+
 <br/>
 
----
-
-<br/>
-
-
-<img align="left" alt="João Pedro Status" src="https://github-readme-stats.vesel.app/api?username=JPLeopoldino&show_icons=true&hide_border=true">
-
----
+___
 
 <br/>
 
