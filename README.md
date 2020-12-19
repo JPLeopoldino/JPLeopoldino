@@ -6,7 +6,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/dat_duder?color=%23915eff&label=Follow%20Me&logo=Twitter&logoColor=%23915eff&style=for-the-badge)
 
 <details>
-  <summary>Pc Configs</summary>
+  <summary>💻🖥Pc Configs</summary>
 
 - CPU
   - [Intel Core I5 - 9600K](https://www.intel.com.br/content/www/br/pt/products/processors/core/i5-processors/i5-9600k.html)
