@@ -1,12 +1,62 @@
-# Olá, João Pedro falando :D
-
-#### Bem vindo ao meu GitHub!
-<br/>
-
-![Twitter Follow](https://img.shields.io/twitter/follow/dat_duder?color=%23915eff&label=Follow%20Me&logo=Twitter&logoColor=%23915eff&style=for-the-badge)
+# Welcome to my Github <img align="top" style="filter: invert(1)" alt="Github" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
 
 <details>
-  <summary>💻🖥Pc Configs</summary>
+<summary>🟢pt-BR</summary>
+
+* Versão em Português
+
+___
+
+
+# Olá, me chamo João Pedro.
+
+🤓 Sou apenas um jovem muito curioso que está iniciando na carreira de desenvolvimento.
+
+📚 Atualmente cursando T.I
+
+___
+
+</details>
+<details>
+<summary>🔴en</summary>
+
+* English Version
+
+___
+
+
+# Hi, my name is João Pedro.
+
+🤓 I am just a very curious young man who is starting his development career.
+
+📚 Currently studying I.T
+
+___
+
+</details>
+
+<br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/JPLeopoldino?color=%23181717&logo=Github&logoColor=%23FFFFFF&style=for-the-badge)](https://github.com/JPLeopoldino "Follow me on Github")
+[![Twitter Follow](https://img.shields.io/twitter/follow/dat_duder?color=%231DA1F2&label=Follow%20me&logo=Twitter&logoColor=%231DA1F2&style=for-the-badge)](https://twitter.com/dat_duder "Follow me on Twitter")
+
+[<img align="center" alt="Gmail" width="20px" style="filter: invert(1)" src="https://simpleicons.org/icons/gmail.svg" />](leopoldino26@gmail.com)‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎[<img align="center" alt="Linkedn" width="20px" style="filter: invert(1)" src="https://simpleicons.org/icons/linkedin.svg" />](https://www.linkedin.com/in/joão-pedro-leopoldino-4648ab185/)‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎[<img align="center" alt="Udemy" width="20px" style="filter: invert(1)" src="https://simpleicons.org/icons/udemy.svg" />](https://www.udemy.com/user/joao-pedro-leopoldino-2/)
+
+<br/>
+
+---
+
+<br/>
+
+
+
+
+---
+
+<br/>
+
+<details>
+  <summary>💻Pc Configs</summary>
 
 - CPU
   - [Intel Core I5 - 9600K](https://www.intel.com.br/content/www/br/pt/products/processors/core/i5-processors/i5-9600k.html)
