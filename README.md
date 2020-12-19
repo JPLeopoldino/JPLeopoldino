@@ -29,7 +29,7 @@ ___
 
 🤓 I am just a very curious young man who is starting his development career.
 
-📚 Currently studying I.T
+📚 Currently studying I.T technician
 
 ___
 
@@ -49,7 +49,7 @@ ___
 <br/>
 
 
-
+<img align="left" alt="João Pedro Status" src="https://github-readme-stats.vesel.app/api?username=JPLeopoldino&show_icons=true&hide_border=true">
 
 ---
 
