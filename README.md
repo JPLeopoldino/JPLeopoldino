@@ -40,7 +40,7 @@ ___
 [![GitHub followers](https://img.shields.io/github/followers/JPLeopoldino?color=%23181717&logo=Github&logoColor=%23FFFFFF&style=for-the-badge)](https://github.com/JPLeopoldino "Follow me on Github")
 [![Twitter Follow](https://img.shields.io/twitter/follow/dat_duder?color=%231DA1F2&label=Follow%20me&logo=Twitter&logoColor=%231DA1F2&style=for-the-badge)](https://twitter.com/dat_duder "Follow me on Twitter")
 
-[<img align="center" alt="Gmail" width="20px" style="filter: invert(1)" src="https://simpleicons.org/icons/gmail.svg" />](leopoldino26@gmail.com)‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎[<img align="center" alt="Linkedn" width="20px" style="filter: invert(1)" src="https://simpleicons.org/icons/linkedin.svg" />](https://www.linkedin.com/in/joão-pedro-leopoldino-4648ab185/)‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎[<img align="center" alt="Udemy" width="20px" style="filter: invert(1)" src="https://simpleicons.org/icons/udemy.svg" />](https://www.udemy.com/user/joao-pedro-leopoldino-2/)
+[<img align="center" alt="Gmail" width="20px" style="filter: invert(1)" src="https://simpleicons.org/icons/gmail.svg" />](mailto:leopoldino26@gmail.com)‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎[<img align="center" alt="Linkedn" width="20px" style="filter: invert(1)" src="https://simpleicons.org/icons/linkedin.svg" />](https://www.linkedin.com/in/joão-pedro-leopoldino-4648ab185/)‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎[<img align="center" alt="Udemy" width="20px" style="filter: invert(1)" src="https://simpleicons.org/icons/udemy.svg" />](https://www.udemy.com/user/joao-pedro-leopoldino-2/)
 
 
 ___
