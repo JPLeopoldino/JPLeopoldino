@@ -37,7 +37,7 @@ ___
 
 <br/>
 
-[![Joao Pedro's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JPLeopoldino&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Joao Pedro's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JPLeopoldino&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub followers](https://img.shields.io/github/followers/JPLeopoldino?color=%23181717&logo=Github&logoColor=%23FFFFFF&style=for-the-badge)](https://github.com/JPLeopoldino "Follow me on Github")
 [![Twitter Follow](https://img.shields.io/twitter/follow/dat_duder?color=%231DA1F2&label=Follow%20me&logo=Twitter&logoColor=%231DA1F2&style=for-the-badge)](https://twitter.com/dat_duder "Follow me on Twitter")
