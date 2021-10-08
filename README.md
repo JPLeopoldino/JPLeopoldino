@@ -1,31 +1,6 @@
-# Welcome to my Github <img align="top" style="filter: invert(1)" alt="Github" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
+# **Welcome to my Github** <img align="top" style="filter: invert(1)" alt="Github" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
 
-<details>
-<summary>🟢pt-BR</summary>
-
-* Versão em Português
-
-___
-
-
-# Olá, me chamo João Pedro.
-
-🤓 Sou apenas um jovem muito curioso que está iniciando na carreira de desenvolvimento.
-
-📚 Atualmente cursando T.I
-
-___
-
-</details>
-<details>
-<summary>🔴en</summary>
-
-* English Version
-
-___
-
-
-# Hi, my name is João Pedro.
+### 👋🏻 Hi, my name is João Pedro.
 
 🤓 I am just a very curious young man who is starting his development career.
 
@@ -33,30 +8,20 @@ ___
 
 ___
 
-</details>
-
 <br/>
+
+<div style="display: flex; align-items: center; justify-content: space-between;">
 
 ![Joao Pedro's github stats](https://github-readme-stats.vercel.app/api?username=JPLeopoldino&theme=github_dark)
 
+
 ![Joao Pedro's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JPLeopoldino&theme=github_dark)
 
-[![GitHub followers](https://img.shields.io/github/followers/JPLeopoldino?color=%23181717&logo=Github&logoColor=%23FFFFFF&style=for-the-badge)](https://github.com/JPLeopoldino "Follow me on Github")
-[![Twitter Follow](https://img.shields.io/twitter/follow/dat_duder?color=%231DA1F2&label=Follow%20me&logo=Twitter&logoColor=%231DA1F2&style=for-the-badge)](https://twitter.com/dat_duder "Follow me on Twitter")
-
-[<img align="center" alt="Gmail" width="20px" style="filter: invert(1)" target="blank" src="https://simpleicons.org/icons/gmail.svg" />](mailto:leopoldino26@gmail.com)‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎[<img align="center" alt="Linkedn" width="20px" style="filter: invert(1)" target="blank" src="https://simpleicons.org/icons/linkedin.svg" />](https://www.linkedin.com/in/joão-pedro-leopoldino-4648ab185/)‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎[<img align="center" alt="Udemy" width="20px" style="filter: invert(1)" target="blank" src="https://simpleicons.org/icons/udemy.svg" />](https://www.udemy.com/user/joao-pedro-leopoldino-2/)
-
+</div>
 
 ___
 
-
-<img align="top" alt="João Pedro Status" src="https://github-readme-stats.codestackr.vercel.app/api?username=JPLeopoldino&show_icons=true&hide_border=true">
-
-<br/>
-
-___
-
-<br/>
+[![Linkedin Badge](https://img.shields.io/badge/-João%20Pedro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jpleopoldino/)](https://www.linkedin.com/in/jpleopoldino/) [![Gmail Badge](https://img.shields.io/badge/-leopoldino26@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leopoldino26@gmail.com)](mailto:leopoldino26@gmail.com)
 
 <details>
   <summary>💻Pc Configs</summary>
