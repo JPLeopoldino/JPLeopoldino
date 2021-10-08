@@ -1,4 +1,4 @@
-# **Welcome to my Github** <img align="top" style="background-color: #FFF; border-radius: 100%;" alt="Github" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
+# **Welcome to my Github** <img align="top" style="background-color: #FFFFFF; border-radius: 100%;" alt="Github" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
 
 ### 👋🏻 Hi, my name is João Pedro.
 
