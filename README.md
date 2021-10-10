@@ -11,8 +11,9 @@ ___
 <br/>
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
-
-![Joao Pedro's github stats](https://github-readme-stats.vercel.app/api?username=JPLeopoldino&theme=github_dark) ![Joao Pedro's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JPLeopoldino&theme=github_dark&layout=compact)
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JPLeopoldino&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPLeopoldino&theme=github_dark&layout=compact"/>
 
 </div>
 
