@@ -13,6 +13,7 @@ ___
 <div align="center">
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JPLeopoldino&theme=github_dark&include_all_commits=true&show_icons=true&hide_border=true"/>
+  <span style="content: ''; width: 2px; height: 180em; background-color: #FFF;" ></span>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPLeopoldino&theme=github_dark&layout=compact&hide_border=true&langs_count=6"/>
 
 </div>
