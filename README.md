@@ -13,7 +13,7 @@ ___
 <div align="center">
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JPLeopoldino&theme=react&include_all_commits=true&show_icons=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPLeopoldino&theme=react&layout=compact&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPLeopoldino&theme=react&layout=compact&hide_border=true&langs_count=6"/>
 
 </div>
 
